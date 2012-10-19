@@ -102,5 +102,6 @@ namespace Game
 
         //public static int FEE = 15;
 
+		public static int doesNothing;
     }
 }
